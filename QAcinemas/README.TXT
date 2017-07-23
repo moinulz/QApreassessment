@@ -5,8 +5,7 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: pre assessment attempt
+VERSION or DATE: 21/07/2017-23/07/2017
+HOW TO START THIS PROJECT: 
+AUTHORS: Moinul
