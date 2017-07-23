@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=movieName
+comment0.target=Movie(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Movie\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMovieName()
+numComments=2
